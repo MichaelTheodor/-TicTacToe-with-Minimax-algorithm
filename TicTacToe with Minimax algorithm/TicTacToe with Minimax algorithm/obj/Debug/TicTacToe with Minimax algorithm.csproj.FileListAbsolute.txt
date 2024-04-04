@@ -1,0 +1,27 @@
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\bin\Debug\TicTacToe with Minimax algorithm.exe.config
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\bin\Debug\TicTacToe with Minimax algorithm.exe
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\bin\Debug\TicTacToe with Minimax algorithm.pdb
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\bin\Debug\BoardLogic.dll
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\bin\Debug\BoardLogic.pdb
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe with Minimax algorithm.csproj.AssemblyReference.cache
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe with Minimax algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe_with_Minimax_algorithm.Form1.resources
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe_with_Minimax_algorithm.Properties.Resources.resources
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe with Minimax algorithm.csproj.GenerateResource.cache
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe with Minimax algorithm.csproj.CoreCompileInputs.cache
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe with Minimax algorithm.csproj.CopyComplete
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe with Minimax algorithm.exe
+C:\Users\MICHAEL\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe with Minimax algorithm.pdb
+C:\Users\MTheo\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\bin\Debug\TicTacToe with Minimax algorithm.exe.config
+C:\Users\MTheo\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\bin\Debug\TicTacToe with Minimax algorithm.exe
+C:\Users\MTheo\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\bin\Debug\TicTacToe with Minimax algorithm.pdb
+C:\Users\MTheo\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\bin\Debug\BoardLogic.dll
+C:\Users\MTheo\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\bin\Debug\BoardLogic.pdb
+C:\Users\MTheo\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe with Minimax algorithm.csproj.AssemblyReference.cache
+C:\Users\MTheo\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe_with_Minimax_algorithm.Form1.resources
+C:\Users\MTheo\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe_with_Minimax_algorithm.Properties.Resources.resources
+C:\Users\MTheo\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe with Minimax algorithm.csproj.GenerateResource.cache
+C:\Users\MTheo\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe with Minimax algorithm.csproj.CoreCompileInputs.cache
+C:\Users\MTheo\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe with Minimax algorithm.csproj.CopyComplete
+C:\Users\MTheo\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe with Minimax algorithm.exe
+C:\Users\MTheo\source\repos\TicTacToe with Minimax algorithm\TicTacToe with Minimax algorithm\obj\Debug\TicTacToe with Minimax algorithm.pdb
